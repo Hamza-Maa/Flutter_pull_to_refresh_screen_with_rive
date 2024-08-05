@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd Flutter-Refresh-Animation-With-Rive
+    cd Flutter_pull_to_refresh_screen_with_rive
     ```
 3. **Install dependencies**:
     ```sh
