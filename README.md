@@ -8,7 +8,7 @@ This Flutter project demonstrates a unique refresh animation using Rive. When th
 - **Rive Integration**: Seamless integration with Rive animations to provide a smooth and interactive user experience.
 - **Page Refresh**: The page content refreshes when the arrow hits the target.
 
-## Screenshots
+## Demonstration
 
 ![Preview](Screenshots/refresh_animation.gif)
 
@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/Flutter-Refresh-Animation-With-Rive.git
+    git clone https://github.com/Hamza-Maa/Flutter_pull_to_refresh_screen_with_rive.git
     ```
 2. **Navigate to the project directory**:
     ```sh
